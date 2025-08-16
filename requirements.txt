@@ -1,0 +1,7 @@
+crewai[tools]==0.157.0
+jupyterlab==4.4.5
+notebook==7.4.5
+streamlit==1.48.0
+transformers==4.46.3
+torch==2.8.0
+python-dotenv
